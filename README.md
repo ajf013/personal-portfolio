@@ -1,6 +1,6 @@
 # 👤 Portfolio Website
 
-> ### Checkout Website at Live Site](https://personalportfolio.netlify.app/) 
+> ### Checkout Website at [Live Site](https://easyportfolio.netlify.app/) 
 > ### Deployed using [Netlify](https://www.netlify.com/)
 
 ## Technologies Used
