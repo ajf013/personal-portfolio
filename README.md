@@ -11,10 +11,6 @@
 - #### JavaScript
 - #### FontAwesome (for icons)
 
-## License
-
-[Apache-2.0](LICENSE) © Pavan Gandhi
-
 ---
 
 <div align="center">
